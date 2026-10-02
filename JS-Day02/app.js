@@ -145,6 +145,8 @@ function lodeTableOnAction(){
     <td>1,000,000</td>
 </tr>
     `
-
 }
+console.log(document);
 
+let title = document.write("<p>Hi Lahiru</p>");
+console.log(title);
